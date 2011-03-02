@@ -1,0 +1,5 @@
+A dark color scheme for the GUI, inspired by the Tango color scheme.
+Screenshot: http://stuf.ro/vim/rdark/
+
+Features: 
+  - let rdark_current_line = 1 if you want to highlight the current line
