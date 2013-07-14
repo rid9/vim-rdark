@@ -1,7 +1,7 @@
 " Vim color file
 " Maintaner: Radu Dineiu <radu.dineiu@gmail.com>
-" URL: http://stuf.ro/vim/rdark/
-" Last Change: 2007 Jun 23
+" URL: https://raw.github.com/rid9/vim-rdark/master/rdark.vim
+" Last Change: 2013 Jul 14
 " Version: 0.6
 "
 " Features:
